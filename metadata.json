@@ -1,0 +1,8 @@
+{
+  "name": "Mariano's Azure Production Scraper & Verification Suite",
+  "description": "Production-ready enterprise scraper for Mariano's (Kroger) tailored for Microsoft Azure. Features location-specific extraction, 22-field strict JSON ordering, volume & digital deal classification, canary silent-blocking detection, and atomic dataset promotion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

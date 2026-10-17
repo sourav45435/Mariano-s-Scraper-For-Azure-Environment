@@ -1,0 +1,59 @@
+{
+  "schedule": "0 2 * * 2,5",
+  "pacing_delay_ms": 1200,
+  "max_retries": 3,
+  "min_expected_products": 500,
+  "canary_keywords": [
+    "Milk",
+    "Avocado",
+    "Banana",
+    "Chicken",
+    "Eggs",
+    "Bread"
+  ],
+  "stores": [
+    {
+      "store_id": "00531",
+      "division_id": "705",
+      "store_name": "Mariano's Lakeview East",
+      "store_location": "3030 N Broadway St, Chicago, IL 60657",
+      "zipcode": "60657",
+      "store_logo": "https://www.marianos.com/assets/brands/marianos/logo.svg",
+      "is_active": true
+    },
+    {
+      "store_id": "00535",
+      "division_id": "705",
+      "store_name": "Mariano's New Eastside",
+      "store_location": "333 E Benton Pl, Chicago, IL 60601",
+      "zipcode": "60601",
+      "store_logo": "https://www.marianos.com/assets/brands/marianos/logo.svg",
+      "is_active": true
+    },
+    {
+      "store_id": "00537",
+      "division_id": "705",
+      "store_name": "Mariano's West Loop",
+      "store_location": "40 S Halsted St, Chicago, IL 60661",
+      "zipcode": "60661",
+      "store_logo": "https://www.marianos.com/assets/brands/marianos/logo.svg",
+      "is_active": false
+    },
+    {
+      "store_id": "00528",
+      "division_id": "705",
+      "store_name": "Mariano's Ravenswood",
+      "store_location": "1800 W Lawrence Ave, Chicago, IL 60640",
+      "zipcode": "60640",
+      "store_logo": "https://www.marianos.com/assets/brands/marianos/logo.svg",
+      "is_active": false
+    }
+  ],
+  "storage": {
+    "azure_blob_container": "marianos-crawl-data",
+    "staging_prefix": "staging/",
+    "production_prefix": "production/",
+    "archive_prefix": "archive/",
+    "quarantine_prefix": "quarantine/"
+  }
+}

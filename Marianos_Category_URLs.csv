@@ -1,0 +1,45 @@
+category_id,category,sub_category,url
+01001,Produce,Fresh Fruits,https://www.marianos.com/pl/fresh-fruits/01001
+01002,Produce,Fresh Vegetables,https://www.marianos.com/pl/fresh-vegetables/01002
+01003,Produce,Salad Kits & Greens,https://www.marianos.com/pl/salad-kits-and-greens/01003
+01004,Produce,Fresh Herbs,https://www.marianos.com/pl/fresh-herbs/01004
+01005,Produce,Organic Produce,https://www.marianos.com/pl/organic-produce/01005
+02001,Dairy & Eggs,Milk & Plant Milk,https://www.marianos.com/pl/milk-and-plant-milk/02001
+02002,Dairy & Eggs,Eggs & Egg Substitutes,https://www.marianos.com/pl/eggs/02002
+02003,Dairy & Eggs,Cheese,https://www.marianos.com/pl/cheese/02003
+02004,Dairy & Eggs,Butter & Margarine,https://www.marianos.com/pl/butter-and-margarine/02004
+02005,Dairy & Eggs,Yogurt,https://www.marianos.com/pl/yogurt/02005
+02006,Dairy & Eggs,Cream & Creamers,https://www.marianos.com/pl/cream-and-creamers/02006
+03001,Meat & Seafood,Beef,https://www.marianos.com/pl/beef/03001
+03002,Meat & Seafood,Poultry & Chicken,https://www.marianos.com/pl/poultry/03002
+03003,Meat & Seafood,Pork,https://www.marianos.com/pl/pork/03003
+03004,Meat & Seafood,Seafood & Fish,https://www.marianos.com/pl/seafood/03004
+03005,Meat & Seafood,Bacon & Sausage,https://www.marianos.com/pl/bacon-and-sausage/03005
+04001,Deli,Deli Meat & Sliced Cheese,https://www.marianos.com/pl/deli-meat-and-cheese/04001
+04002,Deli,Prepared Meals & Entrees,https://www.marianos.com/pl/prepared-meals/04002
+04003,Deli,Specialty Cheese & Charcuterie,https://www.marianos.com/pl/specialty-cheese/04003
+04004,Deli,Dips & Spreads,https://www.marianos.com/pl/dips-and-spreads/04004
+05001,Bakery,Fresh Bread & Rolls,https://www.marianos.com/pl/bread-and-rolls/05001
+05002,Bakery,Bagels & Muffins,https://www.marianos.com/pl/bagels-and-muffins/05002
+05003,Bakery,Pies & Cakes,https://www.marianos.com/pl/pies-and-cakes/05003
+05004,Bakery,Cookies & Brownies,https://www.marianos.com/pl/cookies-and-brownies/05004
+06001,Pantry,Canned Goods & Soups,https://www.marianos.com/pl/canned-goods/06001
+06002,Pantry,Pasta & Pizza Sauces,https://www.marianos.com/pl/pasta-and-sauces/06002
+06003,Pantry,Grains & Rice,https://www.marianos.com/pl/grains-and-rice/06003
+06004,Pantry,Condiments & Dressings,https://www.marianos.com/pl/condiments-and-dressings/06004
+06005,Pantry,Cereal & Breakfast,https://www.marianos.com/pl/cereal-and-breakfast/06005
+06006,Pantry,Baking Ingredients,https://www.marianos.com/pl/baking-ingredients/06006
+06007,Pantry,Spices & Seasonings,https://www.marianos.com/pl/spices-and-seasonings/06007
+07001,Frozen,Frozen Entrees & Dinners,https://www.marianos.com/pl/frozen-meals/07001
+07002,Frozen,Frozen Pizza,https://www.marianos.com/pl/frozen-pizza/07002
+07003,Frozen,Frozen Vegetables,https://www.marianos.com/pl/frozen-vegetables/07003
+07004,Frozen,Ice Cream & Frozen Desserts,https://www.marianos.com/pl/ice-cream/07004
+07005,Frozen,Frozen Breakfast,https://www.marianos.com/pl/frozen-breakfast/07005
+08001,Beverages,Coffee & Tea,https://www.marianos.com/pl/coffee-and-tea/08001
+08002,Beverages,Soda & Soft Drinks,https://www.marianos.com/pl/soda/08002
+08003,Beverages,Sparkling & Bottled Water,https://www.marianos.com/pl/water/08003
+08004,Beverages,Juices & Nectars,https://www.marianos.com/pl/juice/08004
+09001,Snacks,Chips & Pretzels,https://www.marianos.com/pl/chips/09001
+09002,Snacks,Crackers & Crispbreads,https://www.marianos.com/pl/crackers/09002
+09003,Snacks,Nuts & Dried Fruit,https://www.marianos.com/pl/nuts-and-seeds/09003
+09004,Snacks,Candy & Chocolates,https://www.marianos.com/pl/candy/09004
